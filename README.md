@@ -14,6 +14,7 @@ touch password.py
 ```
 ![Screenshot 2024-02-26 161043](https://github.com/SargsyanGrigor/Generate-Password/assets/106109042/c4ba53c7-c056-4090-848a-dd12d7cdec8c)
 
-``` pythone3 name_file.py
+```
+ pythone3 name_file.py
 ```
 ![Screenshot 2024-02-26 155719](https://github.com/SargsyanGrigor/Generate-Password/assets/106109042/147d9d80-87f8-4b5d-92b4-fa0518de7a04)

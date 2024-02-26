@@ -12,5 +12,4 @@ mkdir Generate-Password
 cd Generate-Password
 touch password.py
 ```
-
-![Screenshot 2024-02-26 155719](https://github.com/SargsyanGrigor/Generate-Password/assets/106109042/688c96fa-ab16-4225-b6e8-ff4a11df0d5c)
+![Screenshot 2024-02-26 161043](https://github.com/SargsyanGrigor/Generate-Password/assets/106109042/c4ba53c7-c056-4090-848a-dd12d7cdec8c)

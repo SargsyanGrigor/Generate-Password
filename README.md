@@ -10,5 +10,4 @@ cd Generate-Password
 mkdir Generate-Password 
 cd Generate-Password
 touch password.py
-
 ```
